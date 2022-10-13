@@ -21,8 +21,8 @@ The objective of this task (Task 3) is to combine the data outputted from task 2
 
 
 **INPUTS**:
-- Dataset1.xml    
+- dataset1_cleaned.csv
+- dataset2.csv
 
 **OUTPUTS**:
-- errorlist.csv: list of all changes made to the dataset 
-- dataset1_cleaned.csv: Cleaned data output in csv formatt 
+- dataset_integrated.csv: fully intergrated csv containing dataset 1 & 2 data without duplicates and errors
